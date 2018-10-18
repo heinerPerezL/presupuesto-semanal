@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right, #004e92, #000428); 
+    color: aliceblue;
+}
+
+section{
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    color: #004e92;
+}
+
+section p{
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.oculto{
+    display: none;
+}
